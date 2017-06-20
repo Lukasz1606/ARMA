@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/* to tylko komentraz to destu*/
 public class Abstrakcyjna_Fabryka_Rozkazow
 {
 	public virtual string nazwa_rozkazu

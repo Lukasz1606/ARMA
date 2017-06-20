@@ -11,5 +11,9 @@ using System.Text;
 
 public class Fabryka : Abstrakcyjna_Jednostka
 {
+  public Fabryka()
+  {
+  
+  }
 }
 
